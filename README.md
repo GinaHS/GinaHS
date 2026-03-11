@@ -24,6 +24,20 @@ Soy egresada de la **Universidad Politécnica de Chiapas**. Mi enfoque profesion
 
 ---
 
+### 🤝 Colaboraciones y Proyectos Destacados
+
+He colaborado activamente en el desarrollo de soluciones tecnológicas dentro de los siguientes repositorios:
+
+* **[Predicción de Glucosa LSTM](https://github.com/cribnez/prediccion-glucosa-lstm)** *Implementación de redes neuronales recurrentes para el pronóstico no invasivo de niveles de glucosa en pacientes con diabetes.*
+
+* **[Simulador de Fuente Radiactiva](https://github.com/cribnez/simulador-fuente-radiactiva)** *Desarrollo de un sistema embebido con Raspberry Pi Pico para la enseñanza segura de física nuclear y decaimiento radiactivo.*
+
+* **[VR-Rehabilitación-Hombro](https://github.com/cribnez/VR-Rehabilitacion-Hombro-o-Sistema-Rehabilitacion-Biomecanica)** *Diseño de un entorno virtual y análisis biomecánico en tiempo real para la terapia de tendinitis del manguito rotador.*
+
+* **[Dispositivo Monitoreo de Orina](https://github.com/cribnez/dispositivo-monitoreo-orina)** *Instrumentación electrónica para la captura y análisis de parámetros físicos y visuales mediante métodos no invasivos.*
+
+---
+
 ### 🎓 Próximos Pasos
 Actualmente me encuentro en proceso de ingreso a la **Maestría en Enseñanza de Ciencias Exactas** en el **INAOE**, buscando profesionalizar la creación de herramientas didácticas basadas en tecnología.
 
