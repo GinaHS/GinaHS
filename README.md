@@ -44,7 +44,7 @@ Actualmente me encuentro en proceso de ingreso a la **Maestría en Enseñanza de
 ---
 
 ### 📬 Conectemos:
-[![](https://img.shields.io/badge/ORCID-Mi_Perfil-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8124-6375))
+[![](https://img.shields.io/badge/ORCID-Mi_Perfil-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8124-6375)
 [![](https://img.shields.io/badge/LinkedIn-Mi_Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
 
 *"Transformando datos complejos en soluciones humanas innovadoras."*
